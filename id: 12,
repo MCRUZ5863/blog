@@ -1067,8 +1067,8 @@ document.addEventListener("DOMContentLoaded", function() {
                     <h2>Conclusão</h2>
                     <p>Aproveitar estrategicamente o cupom de primeira compra oferecido pelos aplicativos é uma maneira inteligente de reduzir despesas cotidianas sem sacrificar a conveniência. Mapeando as necessidades do seu mês — seja no abastecimento de alimentos, na compra de medicamentos, na manutenção da casa ou no lazer do fim de semana —, você pode utilizar o benefício de boas-vindas em cada uma dessas sete ferramentas, acumulando centenas de reais de economia direta no seu orçamento familiar.</p>
                 `
-            }
-        ];
+         },
+            {
 		
 		        id: 12,
                 slug: "alem-do-comparador-de-precos-7-ferramentas-digitais-para-nunca-mais-pagar-juros-por-atraso",
